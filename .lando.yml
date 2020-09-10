@@ -1,0 +1,4 @@
+name: react_example_app
+recipe: drupal8
+config:
+  webroot: .
